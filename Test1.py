@@ -14,7 +14,7 @@ while True:
 
 #Reference: https://www.easypythondocs.com/validation.html
 
-hello(int(num), "Hello")
+hello(num, "Hello")
 # print("Hiya")
 # var1 = 4
 # print(var1)
